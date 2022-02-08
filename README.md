@@ -7,3 +7,4 @@ A couple of beginner TASers throwing their hands at a keyboard to see what happe
 All TASes primarily made by Mello Mantra.
 - Help from Malabu05 in chapters 1 and 2
 - Lots of help from LustfulLemon on chapter 7
+- Miscellaneous help here and there from the folks in #tas-general, most notably Kataiser and Tyran
