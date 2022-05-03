@@ -22,5 +22,6 @@ All TASes primarily made by **Mello Mantra**.
   - **Kataiser**
   - **Tyran**
   - **cake**
+  - **Vamp**
   - **TheRoboMan**
   - **tntfalle**
