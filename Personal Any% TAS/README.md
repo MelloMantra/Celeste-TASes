@@ -18,7 +18,7 @@ A beginner TASer throwing their hands at a keyboard to see what happens
 All TASes primarily made by **Mello Mantra**.
 - A couple small improvements from **Spooky Undefined**.
 - Help from **LustfulLemon** on chapter 7
-- Miscellaneous help here and there from the folks in **#tas_general**, most notably:
+- Miscellaneous help/info here and there from the folks in **#tas_general**, most notably:
   - **Kataiser**
   - **Tyran**
   - **cake**
