@@ -16,7 +16,7 @@ console load 3
   10,R,D,X
   40
 
-#s1
+#lvl_s1
    4,R
    1,R,J
   14,R,D,X
@@ -32,7 +32,7 @@ console load 3
    6,R,D,X
   40
 
-#s2
+#lvl_s2
    8,R
    1,R,J
   14,R,D,X
@@ -51,7 +51,7 @@ console load 3
    5,R,U,X
   40
 
-#s3
+#lvl_s3
   14,R
   15,R,U,X
    3,R,J,G
@@ -95,7 +95,7 @@ endRepeat
    2,R,J
   40
 
-#0x-a
+#lvl_0x-a
   11,R,J
   10,R,K,G
    3,R,J,G
@@ -114,7 +114,7 @@ endRepeat
    4,R,J
   40
 
-#00-a
+#lvl_00-a
   10,R,J
    3,R,K,G
   11,R
@@ -135,7 +135,7 @@ endRepeat
   10,R,J
   40
 
-#02-a (0)
+#lvl_02-a (0)
    3,R,J
    9,U,X
    7,R,J
@@ -155,7 +155,7 @@ endRepeat
   15,U,X
   40
 
-#02-b
+#lvl_02-b
   11,L
   13,L,X
    9,L,J
@@ -187,7 +187,7 @@ endRepeat
    8,R,D,X
   40
 
-#02-a (1)
+#lvl_02-a (1)
    7,L,D
   15,L,D,X
   13,R,D
@@ -218,7 +218,7 @@ endRepeat
    1,R,J
   40
 
-#03-a
+#lvl_03-a
    5,R,J
   17,R
   15,R,U,Z
@@ -246,7 +246,7 @@ endRepeat
    6,R,D,X
   40
 
-#05-a
+#lvl_05-a
   11,R
   18,R,D,J
   15,R
@@ -259,7 +259,7 @@ endRepeat
    1,R
   40
 
-#06-a
+#lvl_06-a
   18,R,D
    7,R,U,X
    1,J
@@ -281,13 +281,13 @@ endRepeat
    6,R,J,G
   40
 
-#07-a (0)
+#lvl_07-a (0)
    6,R,J
   15,U,X
   17,L,U,J
   40
 
-#07-b (0)
+#lvl_07-b (0)
   12,L,J
    3,L,K,G
    3,L,J,G
@@ -296,7 +296,7 @@ endRepeat
   11,L,Z
   40
 
-#06-b
+#lvl_06-b
    1,L,J
    6,L,D
   16,L,J
@@ -311,7 +311,7 @@ endRepeat
   17,L,U,J
   40
 
-#06-c
+#lvl_06-c
    3,L,J,G
    8,D
    4,Z
@@ -340,7 +340,7 @@ endRepeat
    6,R,D
   40
 
-#08-c
+#lvl_08-c
    3
    5,R,D
    1
@@ -367,7 +367,7 @@ endRepeat
   22,L,D
   40
 
-#08-b
+#lvl_08-b
    3,L,D
   15,L,D,X
    2,L
@@ -390,7 +390,7 @@ endRepeat
    5,L
   40
 
-#07-b (1)
+#lvl_07-b (1)
    2,L
    1,L,J
    3,J
@@ -405,7 +405,7 @@ endRepeat
    1,L,D
   40
 
-#07-a (1)
+#lvl_07-a (1)
   11,L,D
   15,D,X
    8,R,D
@@ -430,7 +430,7 @@ endRepeat
    3,R
   40
 
-#08-a
+#lvl_08-a
    4,R
    1,R,J
   14,R,D,X
@@ -447,7 +447,7 @@ endRepeat
    3,R,J
   40
 
-#09-b (0)
+#lvl_09-b (0)
    8,R,J
    9,U,X
    9,R,J
@@ -560,12 +560,12 @@ endRepeat
   15,R,D,X
   40
 
-#10-x (0)
+#lvl_10-x (0)
    6,R,D
   10,R,D,X
   40
 
-#11-x
+#lvl_11-x
    1,R
   15,R,J
   15,R,D,X
@@ -582,7 +582,7 @@ endRepeat
   21,L,D
   40
 
-#11-y
+#lvl_11-y
    3,L,D
   10,L,D,X
    2,L,J
@@ -609,7 +609,7 @@ endRepeat
   15,L,D
   40
 
-#11-z
+#lvl_11-z
    3,D
   10,R,D,X
    1,R,D,J
@@ -629,7 +629,7 @@ endRepeat
    5,L,U,Z
   40
 
-#10-z
+#lvl_10-z
   10,L,U
    9,L,J
   15,U,X
@@ -645,7 +645,7 @@ endRepeat
    5,L
   40
 
-#10-y
+#lvl_10-y
   10,R,J
   12,U,X
   21,L,J
@@ -660,7 +660,7 @@ endRepeat
   11,R,K
   40
 
-#10-x (1)
+#lvl_10-x (1)
    5,R
    4,R,J,G
    2,R,K,G
@@ -685,7 +685,7 @@ endRepeat
    1,L,K
   40
 
-#09-b (1)
+#lvl_09-b (1)
   11,L,J
   10,L,U,Z
    1,L,J,G
@@ -721,7 +721,6 @@ endRepeat
   14,R,Z
    9,R,J
   15,R,U,X
-
    9,R,D
    9,R,X
   11,R,J
@@ -735,7 +734,7 @@ endRepeat
   11,U,X
   40
 
-#10-c
+#lvl_10-c
    9,L,J
    1,L,K,G
    1
@@ -760,7 +759,7 @@ endRepeat
    4,R,D
   40
 
-#11-c
+#lvl_11-c
    5,R,D
   15,R,D,X
    8,R,D
@@ -779,12 +778,12 @@ endRepeat
    6,R,J,G
   40
 
-#12-c
+#lvl_12-c
    3,R
   11,U,X
   40
 
-#12-d
+#lvl_12-d
    2
   12,R,J
    8,U,X
@@ -816,7 +815,7 @@ endRepeat
   12,L,D,X
   40
 
-#11-d
+#lvl_11-d
    7,L,J
   41,L,D
   11,L,U,Z
@@ -832,7 +831,7 @@ endRepeat
    3,L,D,J
   40
 
-#10-d
+#lvl_10-d
    8,L,J
   12,L,K
    5,L,Z
@@ -859,11 +858,11 @@ endRepeat
    8,R,D
   40
 
-#10-c
+#lvl_10-c
   44,R,D
   40
 
-#09-b
+#lvl_09-b
   13,R,D
   15,R,Z
    1,X
@@ -881,7 +880,7 @@ endRepeat
    1,R,J
   40
 
-#11-b (2)
+#lvl_11-b (2)
    3,R,J
    5,R
   15,R,Z
@@ -905,7 +904,7 @@ endRepeat
    3,R
   40
 
-#12-b
+#lvl_12-b
    5,R
    1,R,J
   12,R,D,X
@@ -923,7 +922,7 @@ endRepeat
    2,R
   40
 
-#13-b
+#lvl_13-b
    4,R
    9,R,U,X
   39,R,J,G
@@ -942,7 +941,7 @@ endRepeat
   11,L,D,X
   40
 
-#13-a
+#lvl_13-a
    4,L,D
    1,R,J
   11,D
@@ -973,7 +972,7 @@ endRepeat
   25,D
   40
 
-#13-x
+#lvl_13-x
    1,D
   15,L,D,X
   19,L,D
@@ -997,7 +996,7 @@ endRepeat
    6,L,D,X
   40
 
-#12-x
+#lvl_12-x
    2,L,D
    2,L,J
    5,L,K,G
@@ -1019,7 +1018,7 @@ endRepeat
   12,L,K,G
   40
 
-#11-a
+#lvl_11-a
   10,L
    4,J,G
    5,L,Z
@@ -1042,7 +1041,7 @@ endRepeat
    5,R,K,G
   40
 
-#09-b (3)
+#lvl_09-b (3)
    1,R
    8,L,D,X
    1,R,J,G
@@ -1083,7 +1082,7 @@ endRepeat
   14,U,X
   40
 
-#09-d
+#lvl_09-d
    4
    9,R,J,G
   14,R,X
@@ -1109,7 +1108,7 @@ endRepeat
   11,L,D,X
   40
 
-#08-d
+#lvl_08-d
    3,L,D
   11,L,J
   13,L,U,X
@@ -1135,7 +1134,7 @@ endRepeat
    2,L,D
   40
 
-#06-d
+#lvl_06-d
    4,L,D
   15,D,X
   26,R,D
@@ -1175,7 +1174,7 @@ endRepeat
    3,L,D
   40
 
-#04-d
+#lvl_04-d
   40,L,D
   15,L,U,Z
    9,L
@@ -1217,7 +1216,7 @@ endRepeat
    2,L,J
   40
 
-#02-d
+#lvl_02-d
    9,L,J
   10,L
    8,L,U,X
@@ -1260,7 +1259,7 @@ endRepeat
    1,L,J
   40
 
-#00-d
+#lvl_00-d
    7,L,D
    6,L,J
   10,L,D,X
@@ -1274,7 +1273,7 @@ endRepeat
    2,R,K
   40
 
-#roof00
+#lvl_roof00
    2,R,K
    1,S
    1,D,J
@@ -1304,7 +1303,7 @@ endRepeat
    8,R,J
   40
 
-#roof01
+#lvl_roof01
    8,R,J
    9,R
   14,R,X
@@ -1320,7 +1319,7 @@ endRepeat
    4,R
   40
 
-#roof02
+#lvl_roof02
    4,R
    1,R,J
   12,R,D,X
@@ -1476,7 +1475,7 @@ endRepeat
    4,R
   40
 
-#lvl_roof06
+#lvl_roof07
    3,R
    1,R,J
   13,R,Z
@@ -1552,7 +1551,7 @@ endRepeat
   10,R,J,G
   40
   
-#lvl_roof07
+#lvl_roof08
    1,S
    1,D,J
 
