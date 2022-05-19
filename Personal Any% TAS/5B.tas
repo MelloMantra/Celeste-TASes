@@ -1,4 +1,4 @@
-RecordCount: 1353
+RecordCount: 1430
 #5B TAS
 #by Mello Mantra
 console hard 5
@@ -362,22 +362,24 @@ console hard 5
   11,L,J
   46,L
   12,L,U,X
-  21,R,D
-  20,D
-  15,R,X
-  30,D
-  11,L,D
-  24,D
-  14,R,Z
-   7,L,J
-  41,L,D
-  15,L,Z
-  17,R,D
+  18,R,D
   11,D
-   8,L,D
-  28,D
-  21,R,D
-   4,Z
+   3,R,D
+  10,R
+   3,R,J,G
+  15,R,D,X
+   5,R
+  30,L,D
+  15,R,D
+  13,R,Z
+   8,L,J
+  42,L,D
+  15,L,D,X
+   9,R,D
+  12,L,D
+  30,D
+  12,R,D
+  10,R,D,X
    1,R,J
    7,R
    3,R,J
@@ -438,7 +440,7 @@ console hard 5
    2,R,J
    8,R
   40
-**
+
 #lvl_c-03
    1,R,J
   14,R,D,X
@@ -463,7 +465,7 @@ console hard 5
    2,R,J
    6,R
   40
-**
+
 #lvl_c-04
    2,R
    1,R,J
