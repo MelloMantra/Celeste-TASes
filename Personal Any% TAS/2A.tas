@@ -1,4 +1,4 @@
-RecordCount: 763
+RecordCount: 965
 #2A TAS
 #by Mello Mantra
 console load 2
@@ -272,7 +272,7 @@ console load 2
    3,K
    5,R,K
   40
-***
+
 #lvl_6
    1,R,J,G
   10,D
@@ -314,7 +314,7 @@ console load 2
    3,L,J
   11,U,X
   40
-***
+
 #lvl_7
    1,U
   15,U,J
@@ -332,6 +332,130 @@ console load 2
   20,R,D
   20,D
   15,R,U,X
-  24,R,D
+  10,L,D
+  14,D
+   6,L,J
+   6,J
+  16,U,Z
+  10,R,J,G
+   1,R
+   3,R,J
+  14,U,X
+  40
 
+#lvl_8
+   1,L
+   1,L,J,G
+   9,L
+   5,L,Z
+   2,L,J
+   8,L
+   6,L,D,J
+   6,U,X
+   6,L,U,J
+  11,L,D
+  14,L,D,X
+  21,L,J
+  15,U,X
+   9,R,U,J
+   5,R,D
+   6,D
+   5,R,D,X
+   2,R,J
+   3,R
+   1,R,K,G
+  10,R
+   1,R,J
+  17,R,Z
+   1,R,J
+   3
+   1,R,J
+   5,R
+   2,R,J
+   5,U,X
+  13,R,U,J
+   2,R,K,G
+   9,R
+   4,Z
+   1,R,J
+   5,R
+  40
+
+#lvl_9
+   2,R
+   1,J
+  38,R,D
+  13,R,X
+   1,R,J
+   3
+   1,R,J
+  23,R,X
+   1,R,J
+   3
+   1,R,J
+  15,R,D,X
+   8,R,D
+  12,R
+   1,L,J,G
+  17,R,D
+   4,Z
+   2,R,J
+   7,R
+   2,R,J
+  15,R,D,X
+   1,R,J
+   9,R,D,X
+   1,L,J
+   7,L
+   1,L,J
+   4,L
+  10,L,U,Z
+   1,L,J,G
+   1,L
+  13,R,D
+  14,R,D,X
+   1,L,J
+   2,L
+  15,D,X
+   5,D
+  40
+***
+#lvl_10
+   3,L,D
+  50,L,Z
+   1,R
+   3
+  16,R,D,X
+   1,R,J
+   3
+   #1,R,J
+  14,R,D,X
+   1,R,J
+   1,R
+  15,D,X
+   7,L,D
+  15,L,D,X
+  14,D
+   1,J
+  21,D
+  15,L,D,X
+   6,L
+   1,L,J
+  15,L,D
+  10,D
+  20,R,D
+  15,D
+  15,R,D
+  27,L,D
+  16,R,D
+  14,R,D,X
+   3,R,J
+  23,R,X
+   1,R,J
+   3
+   4,R,J
+   1,R,K,G
+   3,R
+  15,R,X
+   1,L
   40
