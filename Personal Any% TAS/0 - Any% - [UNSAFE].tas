@@ -1,0 +1,136 @@
+#Any% TAS
+#a TAS by:
+#Mello Mantra
+
+#DO NOT PRESS
+#"+" WHILE IN
+#FILENAME SCREEN
+unsafe
+ 100
+
+repeat 4
+   1,X
+ 100
+endRepeat
+***
+   1,J
+  95
+   1,J
+  47
+repeat 12
+   1,D
+   1
+endRepeat
+
+#New File
+   1,J
+  14
+   1,D
+   1,J
+  47
+   1,D
+repeat 12
+   1,R
+   1
+endRepeat
+   1,R
+   1,D
+   1,J
+   1,L
+   1
+   1,L
+   1,U
+   1,L
+   1,U
+   1,L
+   1,J
+   1,R
+   1,D
+   1,R
+   1,D
+   1,R
+   1,J
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1,J
+   1,L
+   1,D
+   1,L
+   1,D
+   1,L
+   1,D
+   1,L
+   1,J
+   1,U
+   1,R
+   1,U
+   1,R
+   1,U
+   1,R
+   1,D
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1,J
+   1,L
+   1,J
+   1,R
+   1,U
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1,J
+   1,L
+   1,D
+   1,L
+   1
+   1,L
+   1,J
+   1,L
+   1,J
+repeat 3
+   1,D
+   1
+endRepeat
+   1,D
+   1,J
+  49
+   1,U
+  60
+   1,J
+#intro thing
+ 600
+   1,S
+   1,D,J
+  32
+
+#File Reading
+
+read,0 - Prologue.tas,Start
+***
+ 230
+   1,J
+  45
+   1,J
+ 230
+   1,J
+ 136
+
+read,1A,Start
+
+ 175
+   1,J
+ 500
+
+read,2A,Start
