@@ -1,33 +1,13 @@
 #Any% TAS
-#a TAS by:
-#Mello Mantra
+#by Mello Mantra
 
-#DO NOT PRESS
-#"+" WHILE IN
-#FILENAME SCREEN
 unsafe
  100
-
-repeat 4
-   1,X
- 100
-endRepeat
-***
-   1,J
-  95
-   1,J
-  47
-repeat 12
-   1,D
-   1
-endRepeat
-
-#New File
-   1,J
-  14
+**
    1,D
    1,J
   47
+# file naming
    1,D
 repeat 12
    1,R
@@ -109,16 +89,17 @@ endRepeat
    1,U
   60
    1,J
+
 #intro thing
  600
    1,S
    1,D,J
-  32
+  93
 
 #File Reading
 
 read,0 - Prologue.tas,Start
-***
+
  230
    1,J
   45
@@ -129,8 +110,57 @@ read,0 - Prologue.tas,Start
 
 read,1A,Start
 
- 175
+ 230
    1,J
- 500
+ 230
+   1,J
+  45
+   1,J
+ 230
+   1,J
+ 136
 
 read,2A,Start
+
+ 230
+   1,J
+ 230
+   1,J
+  45
+   1,J
+ 230
+   1,J
+ 136
+
+read,3A,Start
+
+ 230
+   1,J
+ 350
+   1,J
+  45
+   1,J
+ 230
+   1,J
+ 136
+
+read,4A,Start
+
+ 230
+   1,J
+ 230
+   1,J
+  45
+   1,J
+ 230
+   1,J
+ 136
+
+read,5AC,Start
+**
+ 300
+   1,R
+   1,J
+ 305
+
+read,5B,Start
