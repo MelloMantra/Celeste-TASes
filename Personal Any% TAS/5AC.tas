@@ -1,10 +1,10 @@
-RecordCount: 1158
+RecordCount: 1182
 #5A (Cassette End) TAS
 #by Mello Mantra
 console load 5
    1
 #Start
- 101
+ 110
 
 #lvl_a-00b
    1,S
@@ -87,8 +87,8 @@ endRepeat
 
 #lvl_a-01
    3,R
-   8,R,J
-  63,R,D,X
+   2,R,J
+  51,R,D,X
   32,R,U,C
   15,U,X
   96,U,C
