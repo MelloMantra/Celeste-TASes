@@ -1,4 +1,4 @@
-RecordCount: 1980
+RecordCount: 2329
 #5B TAS
 #by Mello Mantra
 console hard 5
@@ -556,7 +556,7 @@ console hard 5
    1,R,J,G
   11,R,G
   40
-**
+
 #lvl_d-02
    3,R,G
    5,D,Z
@@ -613,13 +613,112 @@ console hard 5
    1,R,J
   14,R
   40
-**
+
 #lvl_d-03
    1,R,J
    2
   25,R,G
-   1,R,J
+   2,R,J
    5,R
-   1,R,K,G
-  10,R
+  17,R,J
+   9,L,J
+  15,R,X,G
+  10,D,G
+  41,R,D,G
+   8,R,J,G
+  15,R,J
+  26,R,D
+  34,R,X,G
+  12,R,J,G
+  10,R,J
+  15,U,X,G
+  35,R,D,G
+   1,D,G
+   1,R
+  15,R,X
+  15,D
+  18,R,D
+  15,R,U,X,G
+  25,R,G
+   9,R
+   7,L,D,X
+   1,R,J
+   7,R
+   4,R,J
+   4,R,D,X
+  27,R,D,X,G
   40
+
+#lvl_d-04
+   9,R,G
+   1,R,J,G
+  15,R,D,G
+  15,R,Z
+   3,L,D
+  10,R,D
+  23,R,J,G
+   7,R
+   3,D
+  20,R,D
+  18,R,X
+  24,R,U,C,G
+   1,G
+  10,R,G
+   1,G
+   5,R,G
+   4,L,G
+   1,R,G
+   3,G
+   1,R
+   6,R,D
+   7,R
+  15,R,U,Z
+  19,R
+   6,L,Z
+   1,R,J
+   3,R
+  40
+
+#lvl_d-05
+   4,R
+   3,R,J
+  12,R,D,X
+  13,R,G
+   9,R,J,G
+  29,R,G
+   1,R,J,G
+  18,R,G
+  16,R,X
+   9,L,Z
+   1,R,J
+   7,R
+   1,R,J
+  41,R,U,X,G
+   1,R,J
+   1,R
+  11,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+   4,R
+  15,R,U,X
+#swag
+   #4,L,C
+  #36,L,D,C
+   #4,Z
+   #1,L,J
+  #17,L
+  #15,L,J
+  #65,L,U,X,G
+  44,R,D
+  30,L,D
+   1,Z
+   1,L,J
+  42,L
+   1,L,J
+  16,L,D,X
+ 100
+   1,J
+ 196
+
+ChapterTime
