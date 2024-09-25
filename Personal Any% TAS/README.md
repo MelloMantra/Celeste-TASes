@@ -2,9 +2,7 @@
 This is a personal Celeste Any% TAS project.
 A YouTube playlist of up-to-date TASes is linked [here.](https://www.youtube.com/playlist?list=PLGY5ZVounJwtsjm-I0G1hSpvBwnZedD1T)
 
-Why are you here.
-Oh yeah also the most recent input files are above
-(still WIP)
+The most recent input files are above.
 
 
 
